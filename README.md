@@ -1,2 +1,2 @@
-# Sobhan
-سلام داخل این جا کد های لازم برای افرادی که تازه پایتون رو شروع کردن و دنبال ایده های جدید و خلاقانه هستند و یا می خواهند از موضوعی جدید شروع کنند این جا مناسب آن ها است
+This file is for a simulate of cafe.
+In this file you can save your data by JSON and if you don't remone it, your datas never remove of your computer.
